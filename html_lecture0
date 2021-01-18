@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> attributes</title>
+        <style>
+            body{
+                background-color:black;
+                
+            }
+            button{
+                color:blue;
+                background-color:chartreuse;
+                
+            }
+            button:hover{
+                background-color:chocolate;
+            }
+            
+            
+        </style>
+
+    </head>
+    <body>
+        <form>
+            <input name="name" type="text" placeholder="NAME">
+            <button>submit!</button>
+        </form> 
+    </body>
+</html>
+                
